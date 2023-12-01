@@ -1,0 +1,3 @@
+[submodule "libs/mostafa"]
+	path = libs/mostafa
+	url = https://github.com/liamplm/mostafa-test-prj
